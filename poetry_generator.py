@@ -1,7 +1,4 @@
-# IAE 101
-# Project 04 - Poetry Generator
 # Tareq Mia
-# TMIA
 # 12/9/19
 # poetry_generator.py (v.3)
 
